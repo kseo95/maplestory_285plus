@@ -1,0 +1,16 @@
+.DS_Store
+
+__pycache__/
+.ipynb_checkpoints/
+
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+
+ranking/
+ocid/
+symbol_force/
+hexa/
+hexa_stat/
+final/
